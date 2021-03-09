@@ -25,7 +25,7 @@
 - ![](https://img.shields.io/badge/MySql-DB-informational?style=flat&logo=MySql&logoColor=white&color=informational&cacheSeconds=3600) ![](https://img.shields.io/badge/SQLite-DB-informational?style=flat&logo=SQLite&logoColor=yellow&color=informational&cacheSeconds=3600)  ![](https://img.shields.io/badge/MongoDB-DB-informational?style=flat&logo=MongoDB&logoColor=green&color=informational&cacheSeconds=3600)
 
 #### Versioning
-- ![](https://img.shields.io/badge/Git-Versioning-informational?style=flat&logo=git&logoColor=white&color=informational&cacheSeconds=3600) ![](https://img.shields.io/badge/SVN-Versioning-informational?style=flat&logo=Subversion&logoColor=white&color=informational&cacheSeconds=3600)![](https://img.shields.io/badge/Gitlab-Versioning-informational?style=flat&logo=gitlab&logoColor=white&color=informational&cacheSeconds=3600)
+- ![](https://img.shields.io/badge/Git-Versioning-informational?style=flat&logo=git&logoColor=white&color=informational&cacheSeconds=3600) ![](https://img.shields.io/badge/SVN-Versioning-informational?style=flat&logo=Subversion&logoColor=white&color=informational&cacheSeconds=3600) ![](https://img.shields.io/badge/Gitlab-Versioning-informational?style=flat&logo=gitlab&logoColor=white&color=informational&cacheSeconds=3600)
 
 ### Divers
 - ![](https://img.shields.io/badge/OpenApi-API-informational?style=flat&logo=OpenAPI-Initiative&logoColor=green&color=g&cacheSeconds=3600) ![](https://img.shields.io/badge/Swagger-API-informational?style=flat&logo=Swagger&logoColor=green&color=g&cacheSeconds=3600)
