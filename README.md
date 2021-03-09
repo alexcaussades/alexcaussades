@@ -45,5 +45,3 @@
 ### Divers
 - ![](https://img.shields.io/badge/OpenApi-API-informational?style=flat&logo=OpenAPI-Initiative&logoColor=green&color=g&cacheSeconds=3600) ![](https://img.shields.io/badge/Swagger-API-informational?style=flat&logo=Swagger&logoColor=green&color=g&cacheSeconds=3600)
 
-# Divers
-- ![](https://img.shields.io/keybase/pgp/AlexCaussades)
